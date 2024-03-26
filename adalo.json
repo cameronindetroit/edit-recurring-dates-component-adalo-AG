@@ -1,0 +1,14 @@
+{
+  "displayName": "editRecurringDates",
+  "components": [
+    {
+      "name": "EditRecurringDates",
+      "manifest": "./src/components/EditRecurringDates/manifest.json"
+    }
+  ],
+  "author": "CameronBarnes",
+  "description": "This component takes the dates from one collection, maps out repeated dates and returns to another collection",
+  "demoAppURL": "https://app.adalo.com/apps/8a983095-c659-48cd-9150-129d5c46e665/screens",
+  "supportURL": "https://www.demoURL.com",
+  "logo": "./example-logo.png"
+}
