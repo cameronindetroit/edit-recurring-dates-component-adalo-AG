@@ -5,7 +5,7 @@ const EditRecurringDates = (props) => {
 	const { color, textColor, text, saveToDatabase,dateList,shiftTitle,techList,repeat, monday,tuesday,wednesday,thursday,friday,saturday,sunday } = props
 
 
-	//Days the selected tech works
+	//Days the selected tech works chosen by admin
 	const selectedDays = [monday,tuesday,wednesday,thursday,friday,saturday,sunday];
 
 	//date keys object model
